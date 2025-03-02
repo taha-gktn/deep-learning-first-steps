@@ -3,10 +3,15 @@ Bu depo, TensorFlow ve Keras kullanarak yapay sinir ağları (ANN) ile ilgili il
 
     📂 İçerik
 🧠 Yapay sinir ağları (ANN) temel kavramları
+
 👕 Fashion MNIST veri seti ile model eğitimi
+
 🍏 Fruit ve 🏠 Housing veri setleri ile ek projeler
+
 📖 ANN hakkında aldığım notlar
+
 🔧 TensorFlow ve Keras kullanımı
+
 📊 Model değerlendirme ve görselleştirme
 
     🛠 Gereksinimler
