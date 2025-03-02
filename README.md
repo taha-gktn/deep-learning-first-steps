@@ -48,6 +48,6 @@ Temel yapılar, aktivasyon fonksiyonları, ileri ve geri yayılım gibi konular 
     
 Fashion MNIST veri seti, Zalando Research tarafından oluşturulmuştur ve MIT Lisansı ile sunulmaktadır. Daha fazla bilgiye aşağıdaki bağlantılardan ulaşabilirsiniz:
 
-🔗 Fashion MNIST GitHub Deposu
-📄 Fashion MNIST Makalesi
+🔗 [Fashion MNIST GitHub Deposu](https://github.com/zalandoresearch/fashion-mnist)  
+📄 [Fashion MNIST Makalesi](https://arxiv.org/abs/1708.07747)
 
